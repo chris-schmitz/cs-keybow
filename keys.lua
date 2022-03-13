@@ -1,6 +1,6 @@
 require "keybow"
 -- require "layouts/cs" -- Numberpad
-require "layouts/keytest" -- Numberpad
+-- require "layouts/keytest" -- Numberpad
 
 -- Custom layouts (uncomment to enable) --
 
@@ -10,6 +10,6 @@ require "layouts/keytest" -- Numberpad
 -- require "layouts/mediakeys" -- Basic media controls (play/pause, volume etc)
 -- require "layouts/midi_keys" -- Experimental MIDI layout
 -- require "layouts/blink" -- Numberpad with light feedback
--- require "layouts/mini" -- Keybow MINI example layout
+require "layouts/mini" -- Keybow MINI example layout
 -- require "layouts/mini_volume" -- Keybow MINI volume controls
 -- require "layouts/mini_playback" -- Keybow MINI media playback controls
